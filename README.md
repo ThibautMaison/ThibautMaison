@@ -5,7 +5,7 @@
 [![img_contact](./img/globe-light.svg)](https://mikecodeur.com#gh-light-mode-only)
 [![img_contact](./img/globe-dark.svg)](https://mikecodeur.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact]([./img/youtube-light.svg](https://www.youtube.com/howyoutubeworks/resources/brand-resources/#logos-icons-and-colors))](https://go.mikecodeur.com/youtube#gh-light-mode-only)
+[![img_contact]([https://www.youtube.com/howyoutubeworks/resources/brand-resources/#logos-icons-and-colors))](https://go.mikecodeur.com/youtube#gh-light-mode-only)
 [![img_contact](./img/youtube-dark.svg)](https://go.mikecodeur.com/youtube#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![img_contact](./img/twitter-light.svg)](https://twitter.com/mikecodeur#gh-light-mode-only)
