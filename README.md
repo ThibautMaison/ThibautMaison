@@ -2,6 +2,8 @@
 
 ### My daily routine 
 
+![GHstats](https://github-readme-stats.vercel.app/api?username=ThibautMaison&show_icons=true)
+
 ```mermaid
   graph TD;
       Code-->Eat;
